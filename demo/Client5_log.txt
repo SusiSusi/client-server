@@ -1,0 +1,29 @@
+## Suvi Sipilä, 014220326
+#########################
+>>> import client
+Sending fist Hello-message
+***************************
+***************************
+Received: Lorem ipsum dolor sit amet, id convenire posidonium disputando pri, nam cibo nonumes intellegat no. Vis volumus iracundia eloquentiam et, graece dissentiunt no pri. Oratio maluisset usu no, mea quem dolores torquatos te, libris quaestio est ad. Nonumes elaboraret an quo, postea necessitatibus vis ea, eos nostrum repudiare in. Ne stet legere delicatissimi pro, dicunt volumus contentiones est et.Ex possim repudiare nec. In scaevola perpetua per, est ea idque quando oporteat. Ut nostro viderer mel. Id usu dicunt deserunt mnesarchum.Per quot vidit corpora in, has ut rebum honestatis philosophia. Eu usu movet veniam, pro appetere hendrerit consetetur cu. Mea te postea nusquam tractatos, affert deseruisse efficiendi duo et. Cibo accumsan molestie at quo, in mei salutandi voluptatibus.Et pri patrioque iracundia, quo id nobis apeirian incorrupte. Reque eloquentiam quo ut. Simul iracundia cu pro. Eum reque vidisse suscipiantur in, affert lucilius maluisset qui in. Eam eu ferri facilisis, conceptam intellegam mediocritatem an mea.Quas tincidunt efficiantur eum ne, te wisi molestie tractatos sit, nam ea purto adhuc. Sint simul exerci quo ex, in sanctus reprehendunt vis. Ei modus dolorem sit, qui ne duis mundi, stet maluisset his ei. Viris accommodare quo te, vim phaedrum adolescens reprimique ne. Magna graecis vim te, sea ex quot nostrud theophrastus. Ius ne albucius disputationi, saepe probatus necessitatibus id duo, ut zril aeterno corpora pro. Prima reprehendunt id nam, et mei copiosae atomorum inimicus.
+***************************
+Press x to send move: 
+x
+Please enter your move: move up
+***************************
+Data size:  7
+Number of packets:  6
+Last packet size:  1
+***************************
+Creating XOR packets
+***************************
+***************************
+Received: move left
+***************************
+Press x to send move: 
+Client listens...
+***************************
+Game over! Winner is: 127.0.0.1 41468
+***************************
+Close the socket
+Connection closed
+>>> 

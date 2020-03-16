@@ -1,0 +1,132 @@
+## Suvi Sipilä, 014220326
+#########################
+>>> import server
+Starting server
+***************************
+Data size:  1521
+Number of packets:  24
+Last packet size:  21
+***************************
+Sending game instuctions to ('127.0.0.1', 41754)
+***************************
+***************************
+***************************
+Data size:  1521
+Number of packets:  24
+Last packet size:  21
+***************************
+Sending game instuctions to ('127.0.0.1', 55555)
+***************************
+***************************
+***************************
+Data size:  1521
+Number of packets:  24
+Last packet size:  21
+***************************
+Sending game instuctions to ('127.0.0.1', 54313)
+***************************
+***************************
+***************************
+Forwarding packets from ('127.0.0.1', 54313) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 54313) to ('127.0.0.1', 55555) 
+***************************
+Forwarding packets from ('127.0.0.1', 54313) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 54313) to ('127.0.0.1', 55555) 
+***************************
+Forwarding packets from ('127.0.0.1', 54313) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 54313) to ('127.0.0.1', 55555) 
+***************************
+Move from the client:  127.0.0.1 54313
+move left
+***************************
+***************************
+Data size:  1521
+Number of packets:  24
+Last packet size:  21
+***************************
+Sending game instuctions to ('127.0.0.1', 41468)
+***************************
+***************************
+***************************
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 54313) 
+***************************
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 54313) 
+***************************
+Move from the client:  127.0.0.1 41468
+move up
+***************************
+***************************
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41468) 
+***************************
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41468) 
+***************************
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41754) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41468) 
+***************************
+Move from the client:  127.0.0.1 55555
+move down
+***************************
+***************************
+Server removed client:  ('127.0.0.1', 41754)
+***************************
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 54313) 
+***************************
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 54313) 
+***************************
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 41468) to ('127.0.0.1', 54313) 
+***************************
+Move from the client:  127.0.0.1 41468
+move right
+***************************
+***************************
+Data size:  1521
+Number of packets:  24
+Last packet size:  21
+***************************
+Sending game instuctions to ('127.0.0.1', 40419)
+***************************
+***************************
+***************************
+Forwarding packets from ('127.0.0.1', 40419) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 40419) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 40419) to ('127.0.0.1', 41468) 
+***************************
+Forwarding packets from ('127.0.0.1', 40419) to ('127.0.0.1', 55555) 
+Forwarding packets from ('127.0.0.1', 40419) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 40419) to ('127.0.0.1', 41468) 
+***************************
+Move from the client:  127.0.0.1 40419
+move up
+***************************
+***************************
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41468) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 40419) 
+***************************
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41468) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 40419) 
+***************************
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 54313) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 41468) 
+Forwarding packets from ('127.0.0.1', 55555) to ('127.0.0.1', 40419) 
+***************************
+Move from the client:  127.0.0.1 55555
+move left
+***************************
+***************************
+Game over! Winner is: 127.0.0.1 41468
+***************************
+
